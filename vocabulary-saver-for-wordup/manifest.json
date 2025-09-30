@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Vocabulary Saver",
+  "version": "1.0",
+  "description": "Save selected words to your vocabulary list and export them as a .txt file.",
+  "permissions": ["contextMenus", "storage", "downloads"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
