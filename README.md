@@ -13,4 +13,4 @@ An extension for vocabulary noting.
  - Export to a .txt file to review later. 
 
 ## Acknowledge
-Thanks @mosbee for developing a useful base-extension to catch up new vocabulary day by day. 
+Thanks @mossbee for developing a useful base-extension to catch up new vocabulary day by day. 
